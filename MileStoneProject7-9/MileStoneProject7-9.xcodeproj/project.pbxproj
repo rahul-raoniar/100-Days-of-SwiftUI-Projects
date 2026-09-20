@@ -3,44 +3,42 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 110;
 	objects = {
 
 /* Begin PBXFileReference section */
-		613258983057CD0E00B74E8E /* MoonShotChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoonShotChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		613BDE1A305FA82200E8FD3B /* MileStoneProject7-9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MileStoneProject7-9.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6132589A3057CD0E00B74E8E /* MoonShotChallenge */ = {
+		613BDE1C305FA82200E8FD3B /* MileStoneProject7-9 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MoonShotChallenge;
+			path = "MileStoneProject7-9";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		613258953057CD0E00B74E8E /* Frameworks */ = {
+		613BDE17305FA82200E8FD3B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
 			files = (
 			);
-			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6132588F3057CD0E00B74E8E = {
+		613BDE11305FA82200E8FD3B = {
 			isa = PBXGroup;
 			children = (
-				6132589A3057CD0E00B74E8E /* MoonShotChallenge */,
-				613258993057CD0E00B74E8E /* Products */,
+				613BDE1C305FA82200E8FD3B /* MileStoneProject7-9 */,
+				613BDE1B305FA82200E8FD3B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		613258993057CD0E00B74E8E /* Products */ = {
+		613BDE1B305FA82200E8FD3B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				613258983057CD0E00B74E8E /* MoonShotChallenge.app */,
+				613BDE1A305FA82200E8FD3B /* MileStoneProject7-9.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,85 +46,76 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		613258973057CD0E00B74E8E /* MoonShotChallenge */ = {
+		613BDE19305FA82200E8FD3B /* MileStoneProject7-9 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 613258A33057CD0F00B74E8E /* Build configuration list for PBXNativeTarget "MoonShotChallenge" */;
+			buildConfigurationList = 613BDE25305FA82200E8FD3B /* Build configuration list for PBXNativeTarget "MileStoneProject7-9" */;
 			buildPhases = (
-				613258943057CD0E00B74E8E /* Sources */,
-				613258953057CD0E00B74E8E /* Frameworks */,
-				613258963057CD0E00B74E8E /* Resources */,
+				613BDE16305FA82200E8FD3B /* Sources */,
+				613BDE17305FA82200E8FD3B /* Frameworks */,
+				613BDE18305FA82200E8FD3B /* Resources */,
 			);
 			buildRules = (
 			);
-			dependencies = (
-			);
 			fileSystemSynchronizedGroups = (
-				6132589A3057CD0E00B74E8E /* MoonShotChallenge */,
+				613BDE1C305FA82200E8FD3B /* MileStoneProject7-9 */,
 			);
-			name = MoonShotChallenge;
-			packageProductDependencies = (
-			);
-			productName = MoonShotChallenge;
-			productReference = 613258983057CD0E00B74E8E /* MoonShotChallenge.app */;
+			name = "MileStoneProject7-9";
+			productName = "MileStoneProject7-9";
+			productReference = 613BDE1A305FA82200E8FD3B /* MileStoneProject7-9.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		613258903057CD0E00B74E8E /* Project object */ = {
+		613BDE12305FA82200E8FD3B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 2660;
-				LastUpgradeCheck = 2660;
+				LastSwiftUpdateCheck = 2700;
+				LastUpgradeCheck = 2700;
 				TargetAttributes = {
-					613258973057CD0E00B74E8E = {
-						CreatedOnToolsVersion = 26.6;
-						LastSwiftMigration = 2660;
+					613BDE19305FA82200E8FD3B = {
+						CreatedOnToolsVersion = 27.0;
 					};
 				};
 			};
-			buildConfigurationList = 613258933057CD0E00B74E8E /* Build configuration list for PBXProject "MoonShotChallenge" */;
+			buildConfigurationList = 613BDE15305FA82200E8FD3B /* Build configuration list for PBXProject "MileStoneProject7-9" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 6132588F3057CD0E00B74E8E;
+			mainGroup = 613BDE11305FA82200E8FD3B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 613258993057CD0E00B74E8E /* Products */;
+			productRefGroup = 613BDE1B305FA82200E8FD3B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				613258973057CD0E00B74E8E /* MoonShotChallenge */,
+				613BDE19305FA82200E8FD3B /* MileStoneProject7-9 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		613258963057CD0E00B74E8E /* Resources */ = {
+		613BDE18305FA82200E8FD3B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
 			files = (
 			);
-			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		613258943057CD0E00B74E8E /* Sources */ = {
+		613BDE16305FA82200E8FD3B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
 			files = (
 			);
-			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		613258A13057CD0F00B74E8E /* Debug */ = {
+		613BDE23305FA82200E8FD3B /* Debug configuration for PBXProject "MileStoneProject7-9" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -179,7 +168,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -190,7 +179,7 @@
 			};
 			name = Debug;
 		};
-		613258A23057CD0F00B74E8E /* Release */ = {
+		613BDE24305FA82200E8FD3B /* Release configuration for PBXProject "MileStoneProject7-9" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -237,7 +226,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -247,12 +236,11 @@
 			};
 			name = Release;
 		};
-		613258A43057CD0F00B74E8E /* Debug */ = {
+		613BDE26305FA82200E8FD3B /* Debug configuration for PBXNativeTarget "MileStoneProject7-9" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PPTDR8Q8UK;
@@ -268,26 +256,23 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rahulraoniar.MoonShotChallenge;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulraoniar.MileStoneProject7-9";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "MoonShotChallenge/MoonShotChallenge-Bridging-Header.h";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		613258A53057CD0F00B74E8E /* Release */ = {
+		613BDE27305FA82200E8FD3B /* Release configuration for PBXNativeTarget "MileStoneProject7-9" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PPTDR8Q8UK;
@@ -303,13 +288,12 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rahulraoniar.MoonShotChallenge;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulraoniar.MileStoneProject7-9";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "MoonShotChallenge/MoonShotChallenge-Bridging-Header.h";
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -319,25 +303,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		613258933057CD0E00B74E8E /* Build configuration list for PBXProject "MoonShotChallenge" */ = {
+		613BDE15305FA82200E8FD3B /* Build configuration list for PBXProject "MileStoneProject7-9" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				613258A13057CD0F00B74E8E /* Debug */,
-				613258A23057CD0F00B74E8E /* Release */,
+				613BDE23305FA82200E8FD3B /* Debug configuration for PBXProject "MileStoneProject7-9" */,
+				613BDE24305FA82200E8FD3B /* Release configuration for PBXProject "MileStoneProject7-9" */,
 			);
-			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		613258A33057CD0F00B74E8E /* Build configuration list for PBXNativeTarget "MoonShotChallenge" */ = {
+		613BDE25305FA82200E8FD3B /* Build configuration list for PBXNativeTarget "MileStoneProject7-9" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				613258A43057CD0F00B74E8E /* Debug */,
-				613258A53057CD0F00B74E8E /* Release */,
+				613BDE26305FA82200E8FD3B /* Debug configuration for PBXNativeTarget "MileStoneProject7-9" */,
+				613BDE27305FA82200E8FD3B /* Release configuration for PBXNativeTarget "MileStoneProject7-9" */,
 			);
-			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 613258903057CD0E00B74E8E /* Project object */;
+	rootObject = 613BDE12305FA82200E8FD3B /* Project object */;
+	validationLevel = 1;
 }

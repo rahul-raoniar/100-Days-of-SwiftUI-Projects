@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		613258983057CD0E00B74E8E /* MoonShotChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoonShotChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		61535AE4305E52F10024FBEF /* ChallengeiExpense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChallengeiExpense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6132589A3057CD0E00B74E8E /* MoonShotChallenge */ = {
+		61535AE6305E52F10024FBEF /* ChallengeiExpense */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MoonShotChallenge;
+			path = ChallengeiExpense;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		613258953057CD0E00B74E8E /* Frameworks */ = {
+		61535AE1305E52F10024FBEF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6132588F3057CD0E00B74E8E = {
+		61535ADB305E52F10024FBEF = {
 			isa = PBXGroup;
 			children = (
-				6132589A3057CD0E00B74E8E /* MoonShotChallenge */,
-				613258993057CD0E00B74E8E /* Products */,
+				61535AE6305E52F10024FBEF /* ChallengeiExpense */,
+				61535AE5305E52F10024FBEF /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		613258993057CD0E00B74E8E /* Products */ = {
+		61535AE5305E52F10024FBEF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				613258983057CD0E00B74E8E /* MoonShotChallenge.app */,
+				61535AE4305E52F10024FBEF /* ChallengeiExpense.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,65 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		613258973057CD0E00B74E8E /* MoonShotChallenge */ = {
+		61535AE3305E52F10024FBEF /* ChallengeiExpense */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 613258A33057CD0F00B74E8E /* Build configuration list for PBXNativeTarget "MoonShotChallenge" */;
+			buildConfigurationList = 61535AEF305E52F10024FBEF /* Build configuration list for PBXNativeTarget "ChallengeiExpense" */;
 			buildPhases = (
-				613258943057CD0E00B74E8E /* Sources */,
-				613258953057CD0E00B74E8E /* Frameworks */,
-				613258963057CD0E00B74E8E /* Resources */,
+				61535AE0305E52F10024FBEF /* Sources */,
+				61535AE1305E52F10024FBEF /* Frameworks */,
+				61535AE2305E52F10024FBEF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6132589A3057CD0E00B74E8E /* MoonShotChallenge */,
+				61535AE6305E52F10024FBEF /* ChallengeiExpense */,
 			);
-			name = MoonShotChallenge;
+			name = ChallengeiExpense;
 			packageProductDependencies = (
 			);
-			productName = MoonShotChallenge;
-			productReference = 613258983057CD0E00B74E8E /* MoonShotChallenge.app */;
+			productName = ChallengeiExpense;
+			productReference = 61535AE4305E52F10024FBEF /* ChallengeiExpense.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		613258903057CD0E00B74E8E /* Project object */ = {
+		61535ADC305E52F10024FBEF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2660;
 				LastUpgradeCheck = 2660;
 				TargetAttributes = {
-					613258973057CD0E00B74E8E = {
+					61535AE3305E52F10024FBEF = {
 						CreatedOnToolsVersion = 26.6;
-						LastSwiftMigration = 2660;
 					};
 				};
 			};
-			buildConfigurationList = 613258933057CD0E00B74E8E /* Build configuration list for PBXProject "MoonShotChallenge" */;
+			buildConfigurationList = 61535ADF305E52F10024FBEF /* Build configuration list for PBXProject "ChallengeiExpense" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 6132588F3057CD0E00B74E8E;
+			mainGroup = 61535ADB305E52F10024FBEF;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 613258993057CD0E00B74E8E /* Products */;
+			productRefGroup = 61535AE5305E52F10024FBEF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				613258973057CD0E00B74E8E /* MoonShotChallenge */,
+				61535AE3305E52F10024FBEF /* ChallengeiExpense */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		613258963057CD0E00B74E8E /* Resources */ = {
+		61535AE2305E52F10024FBEF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -116,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		613258943057CD0E00B74E8E /* Sources */ = {
+		61535AE0305E52F10024FBEF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -126,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		613258A13057CD0F00B74E8E /* Debug */ = {
+		61535AED305E52F10024FBEF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -190,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		613258A23057CD0F00B74E8E /* Release */ = {
+		61535AEE305E52F10024FBEF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -247,12 +246,11 @@
 			};
 			name = Release;
 		};
-		613258A43057CD0F00B74E8E /* Debug */ = {
+		61535AF0305E52F10024FBEF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PPTDR8Q8UK;
@@ -268,26 +266,23 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rahulraoniar.MoonShotChallenge;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rahulraoniar.ChallengeiExpense;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "MoonShotChallenge/MoonShotChallenge-Bridging-Header.h";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		613258A53057CD0F00B74E8E /* Release */ = {
+		61535AF1305E52F10024FBEF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PPTDR8Q8UK;
@@ -303,13 +298,12 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rahulraoniar.MoonShotChallenge;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rahulraoniar.ChallengeiExpense;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "MoonShotChallenge/MoonShotChallenge-Bridging-Header.h";
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -319,25 +313,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		613258933057CD0E00B74E8E /* Build configuration list for PBXProject "MoonShotChallenge" */ = {
+		61535ADF305E52F10024FBEF /* Build configuration list for PBXProject "ChallengeiExpense" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				613258A13057CD0F00B74E8E /* Debug */,
-				613258A23057CD0F00B74E8E /* Release */,
+				61535AED305E52F10024FBEF /* Debug */,
+				61535AEE305E52F10024FBEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		613258A33057CD0F00B74E8E /* Build configuration list for PBXNativeTarget "MoonShotChallenge" */ = {
+		61535AEF305E52F10024FBEF /* Build configuration list for PBXNativeTarget "ChallengeiExpense" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				613258A43057CD0F00B74E8E /* Debug */,
-				613258A53057CD0F00B74E8E /* Release */,
+				61535AF0305E52F10024FBEF /* Debug */,
+				61535AF1305E52F10024FBEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 613258903057CD0E00B74E8E /* Project object */;
+	rootObject = 61535ADC305E52F10024FBEF /* Project object */;
 }

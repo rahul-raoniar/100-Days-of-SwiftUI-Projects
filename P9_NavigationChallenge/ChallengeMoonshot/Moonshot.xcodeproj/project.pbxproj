@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		613258983057CD0E00B74E8E /* MoonShotChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoonShotChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		61A8872B30517E2C0073153F /* Moonshot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moonshot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6132589A3057CD0E00B74E8E /* MoonShotChallenge */ = {
+		61A8872D30517E2C0073153F /* Moonshot */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MoonShotChallenge;
+			path = Moonshot;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		613258953057CD0E00B74E8E /* Frameworks */ = {
+		61A8872830517E2C0073153F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6132588F3057CD0E00B74E8E = {
+		61A8872230517E2C0073153F = {
 			isa = PBXGroup;
 			children = (
-				6132589A3057CD0E00B74E8E /* MoonShotChallenge */,
-				613258993057CD0E00B74E8E /* Products */,
+				61A8872D30517E2C0073153F /* Moonshot */,
+				61A8872C30517E2C0073153F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		613258993057CD0E00B74E8E /* Products */ = {
+		61A8872C30517E2C0073153F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				613258983057CD0E00B74E8E /* MoonShotChallenge.app */,
+				61A8872B30517E2C0073153F /* Moonshot.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,65 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		613258973057CD0E00B74E8E /* MoonShotChallenge */ = {
+		61A8872A30517E2C0073153F /* Moonshot */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 613258A33057CD0F00B74E8E /* Build configuration list for PBXNativeTarget "MoonShotChallenge" */;
+			buildConfigurationList = 61A8873630517E2C0073153F /* Build configuration list for PBXNativeTarget "Moonshot" */;
 			buildPhases = (
-				613258943057CD0E00B74E8E /* Sources */,
-				613258953057CD0E00B74E8E /* Frameworks */,
-				613258963057CD0E00B74E8E /* Resources */,
+				61A8872730517E2C0073153F /* Sources */,
+				61A8872830517E2C0073153F /* Frameworks */,
+				61A8872930517E2C0073153F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6132589A3057CD0E00B74E8E /* MoonShotChallenge */,
+				61A8872D30517E2C0073153F /* Moonshot */,
 			);
-			name = MoonShotChallenge;
+			name = Moonshot;
 			packageProductDependencies = (
 			);
-			productName = MoonShotChallenge;
-			productReference = 613258983057CD0E00B74E8E /* MoonShotChallenge.app */;
+			productName = Moonshot;
+			productReference = 61A8872B30517E2C0073153F /* Moonshot.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		613258903057CD0E00B74E8E /* Project object */ = {
+		61A8872330517E2C0073153F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2660;
 				LastUpgradeCheck = 2660;
 				TargetAttributes = {
-					613258973057CD0E00B74E8E = {
+					61A8872A30517E2C0073153F = {
 						CreatedOnToolsVersion = 26.6;
-						LastSwiftMigration = 2660;
 					};
 				};
 			};
-			buildConfigurationList = 613258933057CD0E00B74E8E /* Build configuration list for PBXProject "MoonShotChallenge" */;
+			buildConfigurationList = 61A8872630517E2C0073153F /* Build configuration list for PBXProject "Moonshot" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 6132588F3057CD0E00B74E8E;
+			mainGroup = 61A8872230517E2C0073153F;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 613258993057CD0E00B74E8E /* Products */;
+			productRefGroup = 61A8872C30517E2C0073153F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				613258973057CD0E00B74E8E /* MoonShotChallenge */,
+				61A8872A30517E2C0073153F /* Moonshot */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		613258963057CD0E00B74E8E /* Resources */ = {
+		61A8872930517E2C0073153F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -116,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		613258943057CD0E00B74E8E /* Sources */ = {
+		61A8872730517E2C0073153F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -126,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		613258A13057CD0F00B74E8E /* Debug */ = {
+		61A8873430517E2C0073153F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -190,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		613258A23057CD0F00B74E8E /* Release */ = {
+		61A8873530517E2C0073153F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -247,12 +246,11 @@
 			};
 			name = Release;
 		};
-		613258A43057CD0F00B74E8E /* Debug */ = {
+		61A8873730517E2C0073153F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PPTDR8Q8UK;
@@ -268,26 +266,23 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rahulraoniar.MoonShotChallenge;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rahulraoniar.Moonshot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "MoonShotChallenge/MoonShotChallenge-Bridging-Header.h";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		613258A53057CD0F00B74E8E /* Release */ = {
+		61A8873830517E2C0073153F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PPTDR8Q8UK;
@@ -303,13 +298,12 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rahulraoniar.MoonShotChallenge;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rahulraoniar.Moonshot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "MoonShotChallenge/MoonShotChallenge-Bridging-Header.h";
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -319,25 +313,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		613258933057CD0E00B74E8E /* Build configuration list for PBXProject "MoonShotChallenge" */ = {
+		61A8872630517E2C0073153F /* Build configuration list for PBXProject "Moonshot" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				613258A13057CD0F00B74E8E /* Debug */,
-				613258A23057CD0F00B74E8E /* Release */,
+				61A8873430517E2C0073153F /* Debug */,
+				61A8873530517E2C0073153F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		613258A33057CD0F00B74E8E /* Build configuration list for PBXNativeTarget "MoonShotChallenge" */ = {
+		61A8873630517E2C0073153F /* Build configuration list for PBXNativeTarget "Moonshot" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				613258A43057CD0F00B74E8E /* Debug */,
-				613258A53057CD0F00B74E8E /* Release */,
+				61A8873730517E2C0073153F /* Debug */,
+				61A8873830517E2C0073153F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 613258903057CD0E00B74E8E /* Project object */;
+	rootObject = 61A8872330517E2C0073153F /* Project object */;
 }
